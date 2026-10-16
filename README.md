@@ -1,9 +1,5 @@
-# Swedish_benchmarks
-This is the repository for summarising existing Swedish Benchmarks 
-
-# Swedish LLM Benchmark Overview
-
-Candidate benchmarks and resources for a Swedish LLM leaderboard, grouped by track and area.
+ # Swedish LLM Benchmark Overview
+This is the repository for summarising existing Swedish Benchmarks. These are resources for a Swedish LLM leaderboard, grouped by track and area.
 
 **Contents**
 
