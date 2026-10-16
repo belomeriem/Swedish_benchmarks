@@ -100,15 +100,4 @@ Leaderboard-compatible. Covers reasoning, knowledge, instruction following, fact
 |---|---|---|
 | Legal-norms alignment paper | Translate to Swedish and/or use in English | [arXiv 2510.21524](https://arxiv.org/pdf/2510.21524) |
 
-## Track C: Communicative competence
-
-Human-centered. Covers fluency, idiomaticity, register, dialogue and cultural appropriateness.
-
-| Component | Focus | Status |
-|---|---|---|
-| Native-speaker evaluation | Naturalness and fluency of generated Swedish | To be designed |
-| Multi-turn conversations | Dialogue, register | To be designed |
-| Writing tasks | Idiomaticity, cultural appropriateness | To be designed |
-
-Human judgments should be used to assess the naturalness of generated Swedish, since the automatic benchmarks above do not measure it directly.
 
