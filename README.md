@@ -40,18 +40,6 @@ Language-specific. Covers syntax, morphology, lexical semantics, acceptability, 
 | Svensk trädbank / Talbanken | Syntax, morphology, dependency structures | Existing | High for structural correctness | n/a |
 | Translationese and idioms (Jenny) | Translationese, idiomaticity | Partly closed (usable internally) | Links to the Track C idiomaticity focus | [TACL 2026](https://aclanthology.org/2026.tacl-1.57.pdf), [LREC 2026](https://aclanthology.org/2026.lrec-1.690.pdf) |
 
-### Semantics, inference and lexical knowledge
-
-| Benchmark / resource | What it evaluates | Status | Relevance, priority and notes | Source |
-|---|---|---|---|---|
-| SweWiC 2.0 | Lexical semantics | Existing | Part of the linguistic track | n/a |
-| SuperSim | Semantic similarity | Existing | Part of the linguistic track | n/a |
-| SweDiagnostics | Linguistic inference | Existing diagnostic dataset | Part of the linguistic track | n/a |
-| SweFracas | Inference and semantics | Listed in Track A | Status not specified | n/a |
-| SweNLI | Natural language inference | Existing | Part of the linguistic track | n/a |
-| SweWinograd 2.0 | Pronoun resolution | Existing | Part of the linguistic track | n/a |
-| SweSAT Synonyms | Lexical knowledge, synonym selection | Existing | Top-5 priority. Not a measure of idiomatic production | n/a |
-
 ## Track B: General capabilities in Swedish
 
 Leaderboard-compatible. Covers reasoning, knowledge, instruction following, factuality and reading comprehension.
@@ -124,8 +112,3 @@ Human-centered. Covers fluency, idiomaticity, register, dialogue and cultural ap
 
 Human judgments should be used to assess the naturalness of generated Swedish, since the automatic benchmarks above do not measure it directly.
 
-## Notes
-
-- These resources do not all measure the same construct, so results should be reported per criterion rather than as one aggregate score.
-- A [spreadsheet of multilingual datasets](https://docs.google.com/spreadsheets/u/0/d/1jOFkJ90URRhbRk7tvjB84OveT-w0x8c087DT_pEI7mk/htmlview#gid=0) (probably by EleutherAI) may be worth a closer look. Nothing new tagged Swedish has turned up so far, but many datasets are not tagged with languages.
-- Swedish BLiMP and the "Swedish Benchmark of Linguistic Minimal Pairs (2026)" are assumed to be the same resource. Please verify.
