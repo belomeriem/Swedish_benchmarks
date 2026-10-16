@@ -11,8 +11,7 @@ This is the repository for summarising existing Swedish Benchmarks. These are re
 - [Instruction following](#instruction-following)
 - [Domain-specific knowledge](#domain-specific-knowledge)
 - [Alignment with legal norms](#alignment-with-legal-norms)
-- [Track C: Communicative competence](#track-c-communicative-competence)
-- [Notes](#notes)
+
 
 ## Open design question
 
