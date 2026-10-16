@@ -69,7 +69,7 @@ Leaderboard-compatible. Covers reasoning, knowledge, instruction following, fact
 | MultiLoKo | Covers Swedish, not yet reviewed | | [arXiv 2504.10356](https://arxiv.org/pdf/2504.10356) |
 | MRL shared task 2026 | Unclear whether Swedish is covered | Find out who is involved | [MRL benchmarks](https://mrlbenchmarks.github.io/) |
 | Jenny's factual QA dataset | In EuroEval as multiple-choice with LLM-generated alternatives (5-shot) | | [LREC 2026](https://aclanthology.org/2026.lrec-1.416.pdf) |
-| Cultural Grounding in Swedish (Meriem) | Extension of an everyday-knowledge benchmark | | n/a |
+| Cultural Grounding in Swedish (Meriem) | Extension of an everyday-knowledge benchmark | | [BLEND-data](https://huggingface.co/datasets/uilab/BLEnD) |
 
 ## Instruction following
 
