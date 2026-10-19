@@ -27,6 +27,7 @@ Language-specific. Covers syntax, morphology, lexical semantics, acceptability, 
 |---|---|---|---|---|
 | Swedish BLiMP (Swedish Benchmark of Linguistic Minimal Pairs, 2026) | Syntax and grammaticality, 25 syntactic phenomena | Existing | Core for grammaticality | [LREC 2026](https://aclanthology.org/2026.lrec-1.540.pdf) |
 | Swedish MultiBLiMP | Grammatical minimal pairs | Existing | Considered trivial. Extensions are ongoing (Joakim is involved) | [TACL 2026](https://aclanthology.org/2026.tacl-1.10.pdf) |
+| Swedish BLiMPPI | Grammatical minimal pairs (Minimal Pairs for Polarity Items) | Existing | Joakim is involved | [arxiv](https://arxiv.org/pdf/2610.13607) |
 | UniMorph-BLiMP (Swedish) | Morphology, BLiMP-style | Existing, with a human-verified subset | Complements Swedish BLiMP | [Dataset](https://huggingface.co/datasets/liu-nlp/unimorph-blimp-growup/viewer/swe), [verified subset](https://huggingface.co/datasets/anjajar/swedish_samples_v2) |
 | DaLAJ 1.0 | Binary acceptability judgments on 9,596 sentences, mainly lexical and word-formation errors | Existing | Very high for acceptability. Top-5 priority. Jenny has a minimal-pairs version | [Volodina et al. 2021](https://aclanthology.org/2021.nlp4call-1.3.pdf) |
 | DaLAJ-GED (SuperLim 2.0) | Grammatical error detection | Existing | Top priority. Learner errors do not cover every type of LLM error. Its original use case (error correction) complements Swedish BLiMP | Volodina et al. 2023 |
