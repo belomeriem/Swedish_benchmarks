@@ -35,6 +35,7 @@ Language-specific. Covers syntax, morphology, lexical semantics, acceptability, 
 | SweLL | Learner language, error correction, word choice, morphology | Existing | High for error analysis and controlled tests. Top-5 priority | n/a |
 | Svensk trädbank / Talbanken | Syntax, morphology, dependency structures | Existing | High for structural correctness | n/a |
 | Translationese and idioms (Jenny) | Translationese, idiomaticity | Partly closed (usable internally) | Links to the Track C idiomaticity focus | [TACL 2026](https://aclanthology.org/2026.tacl-1.57.pdf), [LREC 2026](https://aclanthology.org/2026.lrec-1.690.pdf) |
+| Par-PARSEME | Paraphrasing of idioms (in context) | Ongoing at SemEval (63 Swedish sentence triple from MWE 2026 available) | ? (Sara is involved) | [SemEval 2027, task 4](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:par-parseme) |
 
 ## Track B: General capabilities in Swedish
 
