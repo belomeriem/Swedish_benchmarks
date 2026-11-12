@@ -97,4 +97,10 @@ Leaderboard-compatible. Covers reasoning, knowledge, instruction following, fact
 |---|---|---|
 | Legal-norms alignment paper | Translate to Swedish and/or use in English | [arXiv 2510.21524](https://arxiv.org/pdf/2510.21524) |
 
+## Bias and harmful content
+
+| Benchmark / resource | What it evaluates | Status | Source |
+|---|---|---|---|
+| Harmful Completions | Gender bias / toxicity | templates are translated but verified | [paper](https://aclanthology.org/2022.nlpcss-1.13.pdf), [templates](https://github.com/SamiaTouileb/ScandinavianHONEST/blob/main/resources/binary/sv_template.tsv) | 
+| BiaSWE | Misogyny detection | small, native Swedish | [paper](https://aclanthology.org/2025.nodalida-1.33.pdf), [dataset](https://huggingface.co/datasets/AI-Sweden-Models/BiaSWE) | 
 
